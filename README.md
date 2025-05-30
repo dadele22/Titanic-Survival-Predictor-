@@ -14,7 +14,9 @@ Median age of survivors was lower compared to non-survivors
 
 🔹 Machine Learning Models & Performance
  ✅ Support Vector Machine (SVM) – Achieved 80% accuracy but had difficulty classifying survivors
+ 
  ✅ Logistic Regression – Performed at 80% accuracy, showing strong predictive power for passenger fate 
+ 
  ✅ Neural Network – Accuracy peaked at 82% with fine-tuned hidden layers, but struggled with false positives
 
 🔹 Key Findings 
