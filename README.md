@@ -6,10 +6,12 @@ The sinking of the Titanic in 1912 was a catastrophic event, but what if data co
 
 🔹 Data Preprocessing & Cleaning
 Removed irrelevant features (PassengerID, Name, Cabin, Ticket, Embarked)
+
 Replaced missing age values with the dataset mean for normalization
 
 🔹 Exploratory Data Analysis (EDA)
 Boxplots & bar charts revealed that women and children had higher survival rates
+
 Median age of survivors was lower compared to non-survivors
 
 🔹 Machine Learning Models & Performance
@@ -21,7 +23,9 @@ Median age of survivors was lower compared to non-survivors
 
 🔹 Key Findings 
 🚀 Gender and ticket class were the strongest predictors of survival 
+
 🚀 Higher fares correlated with a better survival chance 
+
 🚀 Neural networks provided insight into feature importance, showing sibling presence also influenced survival outcomes
 
 This project showcases machine learning applications in historical analysis, proving that data-driven models can uncover insights even in century-old events
